@@ -130,7 +130,7 @@ datos.
 
 ### Diagrama de arquitectura
 
-![Arquitectura de GoHuella](docs/arquitectura-gohuella.png)
+![Arquitectura de GoHuella](docs/gohuella-arquitectura.png)
 
 ------------------------------------------------------------------------
 
@@ -209,31 +209,31 @@ carpeta `docs/`.
 
 ### 🏠 Página principal
 
-![Página principal](docs/inicio.png)
+![Página principal](docs/gohuella-inicio.png)
 
 ### 🗺️ Mapa de reportes
 
-![Mapa de GoHuella](docs/mapa.png)
+![Mapa de GoHuella](docs/gohuella-mapa.png)
 
 ### 📢 Reportar mascota
 
-![Reportar mascota](docs/reportar.png)
+![Reportar mascota](docs/gohuella-reportar.png)
 
 ### 📰 Publicaciones
 
-![Publicaciones](docs/publicaciones.png)
+![Publicaciones](docs/gohuella-publicaciones.png)
 
 ### 💬 Mensajes
 
-![Mensajes](docs/mensajes.png)
+![Mensajes](docs/gohuella-mensajes.png)
 
 ### 🔔 Alertas
 
-![Alertas](docs/alertas.png)
+![Alertas](docs/gohuella-alertas.png)
 
 ### 🔐 Inicio de sesión
 
-![Login](docs/login.png)
+![Login](docs/gohuella-login.png)
 
 ------------------------------------------------------------------------
 
@@ -310,14 +310,14 @@ repositorio público.
 gohuella/
 │
 ├── docs/
-│   ├── arquitectura-gohuella.png
-│   ├── inicio.png
-│   ├── mapa.png
-│   ├── reportar.png
-│   ├── publicaciones.png
-│   ├── mensajes.png
-│   ├── alertas.png
-│   └── login.png
+│   ├── gohuella-arquitectura.png
+│   ├── gohuella-inicio.png
+│   ├── gohuella-mapa.png
+│   ├── gohuella-reportar.png
+│   ├── gohuella-publicaciones.png
+│   ├── gohuella-mensajes.png
+│   ├── gohuella-alertas.png
+│   └── gohuella-login.png
 │
 └── README.md
 ```
